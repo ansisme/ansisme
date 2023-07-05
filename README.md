@@ -1,6 +1,6 @@
 Hi there, I am Anshul 👋
 
-- 🔭 I’m a Frontend and Backend Developer
+- 🔭 I’m a FullStack Developer
 - 💬 Ask me about Cloud and Devops
 
 
